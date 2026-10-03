@@ -1,0 +1,17 @@
+joblib
+keras
+lightgbm
+matplotlib
+numpy
+openpyxl
+pandas
+plotly
+pytz
+requests
+scikit-learn
+scipy
+seaborn
+tensorflow
+torch
+xgboost
+yfinance
